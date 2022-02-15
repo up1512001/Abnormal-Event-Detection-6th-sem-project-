@@ -8,7 +8,7 @@ Code for the [paper](https://arxiv.org/abs/1701.01546).
 # Dependencies:
 
 
-Install ffmpeg for Video frame extraction.
+video frame extracted using openCV.
 
 
 # Library based Dependencies:
