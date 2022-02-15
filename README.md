@@ -30,17 +30,11 @@ OpenCV
 
 # Instructions
 
-Run processor.py with args the path of Video directory and frame rate.
+Run copy testing file.py to generate csv file log of abnormal events
+
+Run testing file.py to check any perticular video from train folder
 
 
-Run train.py to train the model
+# Training model
 
-
-Run test.py to test on testing data.
-
-Run start_live_feed.py to test the model on live webcam feed.
-
-
-You can adjust the threshold parameter in test.py to different values to adjust sensitivity
-
-Datasets Recommended: Avenue Dataset for Anomaly Detection
+We have train model on google colab and saved_model.h5 is for 5 epochs and saved_model 20-01-22.h5 is for 2 epochs
