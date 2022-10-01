@@ -5,7 +5,7 @@ Abnormal Event Detection in Videos using SpatioTemporal AutoEncoder
 Code for the [paper](https://arxiv.org/abs/1701.01546).
 
 
-# Dependencies:
+# Dependencies required:
 
 
 video frame extracted using openCV.
