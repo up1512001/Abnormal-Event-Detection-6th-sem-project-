@@ -15,15 +15,11 @@ video frame extracted using openCV.
 
 numpy
 
-sklearn
-
 keras
 
 tensorflow
 
 h5py
-
-scipy
 
 OpenCV
 
